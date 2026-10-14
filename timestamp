@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+if [ -n "$1" ]; then
+    SEP=$1
+else
+    SEP="_"
+fi
+
+echo "$(date "+%Y${SEP}%m${SEP}%d${SEP}%H%M%S")";
+
