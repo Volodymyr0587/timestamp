@@ -126,4 +126,4 @@ echo "[$(timestamp)] Backup completed" >> backup.log
 
 ## License
 
-Use, modify, and distribute this script freely. Add a license file if you intend to publish the project with a specific open-source license.
+Use, modify, and distribute this script freely.
